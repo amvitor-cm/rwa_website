@@ -30,7 +30,7 @@ The layout ensures smooth navigation, responsive design, and a credible look ali
 
 ## Features
 - **Clean and modern UI/UX** with a professional layout  
-- **Fully responsive** — optimized for desktop, tablet, and mobile  
+- **Fully responsive**  optimized for desktop, tablet, and mobile  
 - **Hero and CTA sections** for conversion focus  
 - **Asset categories and metrics** displayed dynamically  
 - **Structured content hierarchy** for clarity  
@@ -40,15 +40,15 @@ The layout ensures smooth navigation, responsive design, and a credible look ali
 ---
 
 ## Sections Included
-1. **Navigation Bar** — Quick access to all key pages  
-2. **Hero Section** — Strong message and call-to-action  
-3. **Key Statistics** — Assets under management, listings, and trust metrics  
-4. **Why Choose Us** — Core platform benefits and differentiators  
-5. **Asset Categories** — Real Estate, Commodities, Fine Art, Infrastructure  
-6. **How It Works** — Simple 3-step investment process  
-7. **Testimonials** — Real investor feedback for credibility  
-8. **Call to Action** — “Ready to Get Started?” section with links  
-9. **Footer** — Company info, quick links, and legal pages  
+1. **Navigation Bar** -  Quick access to all key pages  
+2. **Hero Section** - Strong message and call-to-action  
+3. **Key Statistics** - Assets under management, listings, and trust metrics  
+4. **Why Choose Us** - Core platform benefits and differentiators  
+5. **Asset Categories** - Real Estate, Commodities, Fine Art, Infrastructure  
+6. **How It Works** - Simple 3-step investment process  
+7. **Testimonials** - Real investor feedback for credibility  
+8. **Call to Action** - “Ready to Get Started?” section with links  
+9. **Footer**  Company info, quick links, and legal pages  
 
 ---
 
