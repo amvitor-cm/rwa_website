@@ -1,13 +1,13 @@
 ![Website Preview](https://raw.githubusercontent.com/amvitor-cm/rwa_website/main/rwa.jpg)
 
-# RWA Platform — Real World Asset Tokenization Template
+# RWA Platform - Real World Asset Tokenization Template
 
 A modern and elegant **blockchain investment landing page template** built for showcasing **real-world asset tokenization platforms**.  
 This project demonstrates how decentralized finance can meet traditional investments through a visually appealing, responsive web experience.
 
 ---
 
-## 🔗 Live Demo
+##  Live Demo
 **View Site:** [https://rwa-website-five.vercel.app/](https://rwa-website-five.vercel.app/)
 
 *(Demo site for presentation purposes — no backend integration.)*
