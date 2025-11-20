@@ -103,7 +103,7 @@ body {
     overflow-x: hidden;
 }
 
-/* Reduced motion support */
+/*  motion support */
 @media (prefers-reduced-motion: reduce) {
     html {
         scroll-behavior: auto;
@@ -1257,3 +1257,4 @@ textarea.form-control {
     top: var(--space-md);
 
 }
+
