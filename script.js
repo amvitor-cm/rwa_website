@@ -1,8 +1,8 @@
-// =============================================================================
+
 // DATA AND CONFIGURATION
 // =============================================================================
 
-// Sample assets data - replace with real data in production
+// Sample assets data 
 const assetsData = [
     {
         id: 1,
@@ -98,7 +98,7 @@ const teamData = [
     }
 ];
 
-// =============================================================================
+
 // UTILITY FUNCTIONS
 // =============================================================================
 
@@ -272,13 +272,13 @@ function initAssets() {
     const yieldRange = document.getElementById('yieldRange');
     const yieldValue = document.getElementById('yieldValue');
     
-    // Update yield range display
+    // yield range display
     yieldRange.addEventListener('input', () => {
         yieldValue.textContent = `0-${yieldRange.value}%`;
         filterAndRenderAssets();
     });
     
-    // Add event listeners for filtering and sorting
+    //  event listeners for filtering and sorting
     typeFilter.addEventListener('change', filterAndRenderAssets);
     sortBy.addEventListener('change', filterAndRenderAssets);
     
@@ -471,7 +471,7 @@ function initFAQ() {
             // Toggle active class on the item
             item.classList.toggle('active');
             
-            // Update aria-expanded attribute
+            //  aria-expanded attribute
             const isExpanded = item.classList.contains('active');
             question.setAttribute('aria-expanded', isExpanded);
         });
@@ -498,8 +498,8 @@ function initContactForm() {
         e.preventDefault();
         
         if (validateForm()) {
-            // In a real application, you would send the form data to a server here
-            // For this demo, we'll just show a success message
+          
+            //  just to show a success message
             showToast('Your message has been sent successfully!');
             form.reset();
         }
@@ -631,3 +631,4 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 });
+
