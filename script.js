@@ -1,7 +1,4 @@
 
-// DATA AND CONFIGURATION
-// =============================================================================
-
 // Sample assets data 
 const assetsData = [
     {
@@ -631,4 +628,5 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 });
+
 
