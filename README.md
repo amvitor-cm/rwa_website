@@ -61,7 +61,7 @@ The layout ensures smooth navigation, responsive design, and a credible look ali
 ---
 
 ## Usage
-This is a **front-end template** — ideal for:
+This is a **front-end template** - ideal for:
 - Blockchain startups  
 - DeFi landing pages  
 - Fintech and investment firms  
