@@ -203,7 +203,7 @@ function initRouter() {
         if (currentPage) {
             currentPage.classList.add('active');
             
-            // Update active nav link
+            // active nav link
             document.querySelectorAll('.nav-link').forEach(link => {
                 link.classList.remove('active');
                 if (link.getAttribute('data-page') === pageId) {
@@ -628,6 +628,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 });
+
 
 
 
